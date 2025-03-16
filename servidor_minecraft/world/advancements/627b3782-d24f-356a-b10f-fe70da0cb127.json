@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-16 20:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-03-16 19:43:03 +0000"
@@ -395,6 +401,18 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-03-16 20:00:08 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-03-16 20:00:08 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/apple_pie": {
     "criteria": {
       "has_apple": "2025-03-16 19:51:20 +0000"
@@ -425,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-16 20:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-03-16 19:54:17 +0000"
@@ -449,6 +473,12 @@
       "axe": "2025-03-16 19:48:01 +0000"
     },
     "done": false
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-03-16 20:00:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
@@ -489,6 +519,18 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-03-16 19:45:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-16 20:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-16 20:00:08 +0000"
     },
     "done": true
   },
@@ -702,6 +744,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-16 20:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-16 19:52:10 +0000"
@@ -717,6 +765,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-03-16 19:35:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-16 20:00:27 +0000"
     },
     "done": true
   },
