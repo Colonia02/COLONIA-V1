@@ -732,3 +732,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [16Mar2025 21:47:34.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Upgrade My Tool!]
 [16Mar2025 22:03:17.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
 [16Mar2025 22:03:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[16Mar2025 22:04:52.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Mar2025 22:04:52.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o<--[HERE]
