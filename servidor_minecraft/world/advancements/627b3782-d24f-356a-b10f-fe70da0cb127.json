@@ -3027,6 +3027,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2025-03-18 19:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 15:31:10 +0000"
