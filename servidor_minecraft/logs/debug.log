@@ -6807,3 +6807,17 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Mar2025 20:44:40.286] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
 [18Mar2025 20:44:40.286] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
 [18Mar2025 20:44:40.286] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 4.608 -> 4.2840004 (-0.3239994) - mods: [6, x1.2]
+[18Mar2025 20:46:28.437] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Diamond Pickaxe
+[18Mar2025 20:46:28.438] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 99.99999 -> 99.99999 (+0.0) - mods: [70, +30]
+[18Mar2025 20:46:28.438] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 1577.0 -> 1577.0 (+0.0) - mods: [1561, +16]
+[18Mar2025 20:46:28.438] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 20:46:28.438] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.0 -> 4.0 (+0.0) - mods: [3, +1]
+[18Mar2025 20:46:28.438] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.8 -> 0.8 (+0.0) - mods: [0.8]
+[18Mar2025 20:46:28.439] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 10.0 -> 10.0 (+0.0) - mods: [10]
+[18Mar2025 20:46:28.439] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 3.0 -> 3.0 (+0.0) - mods: [1, +2]
+[18Mar2025 20:46:28.439] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 20:46:28.439] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 17.04 -> 16.276604 (-0.7633972) - mods: [8, +15%, x1.2, +6]
+[18Mar2025 20:49:32.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:49:32.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:54:32.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:54:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
