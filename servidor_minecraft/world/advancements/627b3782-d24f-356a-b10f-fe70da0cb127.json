@@ -2331,6 +2331,12 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2025-03-18 17:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-18 16:14:50 +0000"
@@ -2638,6 +2644,12 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-03-18 17:04:29 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_casing": {
     "criteria": {
       "steel_casing": "2025-03-18 15:58:12 +0000"
@@ -2653,6 +2665,12 @@
   "rftoolscontrol:recipes/rftoolscontrol/card_base": {
     "criteria": {
       "redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-03-18 17:24:24 +0000"
     },
     "done": true
   },

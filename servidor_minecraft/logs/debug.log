@@ -6127,3 +6127,23 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Mar2025 16:54:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Mar2025 16:59:32.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Mar2025 16:59:32.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:04:32.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 17:04:32.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:09:32.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 17:09:32.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:14:32.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 17:14:32.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:19:32.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 17:19:32.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:24:32.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 17:24:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:24:33.401] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 50.0 -> 50.0 (+0.0) - mods: [20, +30]
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 266.0 -> 266.0 (+0.0) - mods: [250, +16]
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 17:24:33.403] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 3.0 -> 3.0 (+0.0) - mods: [1, +2]
+[18Mar2025 17:24:33.404] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 17:24:33.404] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 13.410316 -> 13.02379 (-0.3865261) - mods: [6, +15%, x1.2, +6]
