@@ -792,3 +792,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Mar2025 16:18:11.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Alloy That Started it All]
 [18Mar2025 17:49:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Configure Everything]
 [18Mar2025 18:16:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Disme A Dozen]
+[18Mar2025 18:45:59.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Skeleton
+[18Mar2025 18:50:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by Spider
