@@ -2318,6 +2318,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-18 15:11:46 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/cave_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-18 15:07:50 +0000"
@@ -2348,9 +2354,22 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-03-18 15:12:12 +0000",
+      "opened_chest": "2025-03-18 15:11:46 +0000"
+    },
+    "done": false
+  },
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-03-18 15:07:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-18 15:12:12 +0000"
     },
     "done": true
   },
