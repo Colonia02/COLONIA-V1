@@ -798,3 +798,18 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Mar2025 19:49:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Burn the Gas]
 [18Mar2025 20:16:33.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Ka-chink! 2]
 [18Mar2025 20:18:13.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Ice Bucket Challenge]
+[18Mar2025 20:58:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Mar2025 20:58:10.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[18Mar2025 20:58:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] io
+[18Mar2025 21:08:10.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Mar2025 21:08:10.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Mar2025 21:08:10.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Mar2025 21:08:10.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Mar2025 21:08:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Mar2025 21:08:11.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Mar2025 21:08:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Mar2025 21:08:11.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Mar2025 21:08:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Mar2025 21:08:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Mar2025 21:08:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Mar2025 21:08:11.402] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
