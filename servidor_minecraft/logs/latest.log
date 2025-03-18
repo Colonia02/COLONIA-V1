@@ -781,3 +781,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [18Mar2025 15:27:58.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Skin changed]
+[18Mar2025 15:37:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [A Metallur-what?]
