@@ -2376,15 +2376,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-18 15:57:46 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-03-18 18:15:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-03-18 20:41:53 +0000"
     },
     "done": true
   },
@@ -2508,6 +2538,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-18 20:10:18 +0000"
@@ -2592,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-18 16:14:50 +0000"
@@ -2646,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/misc/string_from_gossypium": {
     "criteria": {
       "has_gossypium": "2025-03-18 15:07:53 +0000"
@@ -2667,6 +2721,12 @@
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
     },
     "done": true
   },
@@ -2736,9 +2796,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
     },
     "done": true
   },
@@ -2776,6 +2848,12 @@
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-03-18 15:07:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-03-18 20:41:53 +0000"
     },
     "done": true
   },
@@ -2917,6 +2995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/building_blocks/cave_carrot_crate": {
     "criteria": {
       "has_cave_carrot": "2025-03-18 15:07:50 +0000"
@@ -3007,6 +3091,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-18 20:41:42 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/sand_bricks": {
     "criteria": {
       "has_item2_domum_ornamentum_sand_bricks": "2025-03-18 15:55:25 +0000",
@@ -3030,6 +3120,12 @@
     "criteria": {
       "has_item1_domum_ornamentum_sand_stone_bricks": "2025-03-18 15:55:25 +0000",
       "has_item2_domum_ornamentum_sand_stone_bricks": "2025-03-18 15:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-18 20:41:53 +0000"
     },
     "done": true
   },
