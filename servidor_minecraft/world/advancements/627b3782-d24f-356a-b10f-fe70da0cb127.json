@@ -2391,6 +2391,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-18 15:25:33 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/improvised_barbecue_stick": {
     "criteria": {
       "has_cave_carrot": "2025-03-18 15:07:50 +0000"
@@ -2406,6 +2412,12 @@
   "miners_delight:recipes/food/vegan_wrap": {
     "criteria": {
       "has_cave_carrot": "2025-03-18 15:07:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-18 15:25:33 +0000"
     },
     "done": true
   },

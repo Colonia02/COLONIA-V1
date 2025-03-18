@@ -6031,3 +6031,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Mar2025 15:20:15.783] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
 [18Mar2025 15:20:15.783] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.8881288 -> 6.5762568 (-0.311872) - mods: [6, x1.2]
 [18Mar2025 15:20:15.783] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 15:24:29.084] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[18Mar2025 15:24:29.085] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Mar2025 15:24:32.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 15:24:32.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 15:27:55.521] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/mineskin/request/AbstractRequestBuilder for class org/mineskin/request/UrlRequestBuilderImpl in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-3,5,SERVER]
+[18Mar2025 15:27:55.521] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at org.mineskin.request.GenerateRequest.url(GenerateRequest.java:39) ~[?:?]
+	at org.mineskin.request.GenerateRequest.url(GenerateRequest.java:43) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider.loadSkin(MineskinSkinProvider.java:102) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider$1.load(MineskinSkinProvider.java:68) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider$1.load(MineskinSkinProvider.java:65) ~[?:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3533) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2282) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2159) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2049) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3966) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3989) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4950) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider.fetchSkin(MineskinSkinProvider.java:88) ~[?:?]
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$0(SkinRestorer.java:138) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$1(SkinRestorer.java:138) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18Mar2025 15:27:58.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Skin changed]
+[18Mar2025 15:29:32.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 15:29:32.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
