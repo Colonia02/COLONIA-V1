@@ -2640,6 +2640,12 @@
     },
     "done": true
   },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-03-18 20:16:33 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/misc/string_from_gossypium": {
     "criteria": {
       "has_gossypium": "2025-03-18 15:07:53 +0000"
@@ -2893,6 +2899,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-18 20:18:13 +0000"
+    },
+    "done": true
+  },
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2025-03-18 15:37:58 +0000"
@@ -3042,6 +3054,12 @@
   "mekanismtools:alternate_tools": {
     "criteria": {
       "tools": "2025-03-18 18:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 20:18:13 +0000"
     },
     "done": true
   },
