@@ -736,3 +736,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Mar2025 14:55:31.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:60011] logged in with entity id 35 at (-40.40029813094442, -6.0, -197.3237858507566)
 [18Mar2025 14:55:31.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [18Mar2025 14:55:31.556] [Server thread/INFO] [structurize/]: New Server UUID 03295b39-2692-4322-ba88-09d3362ca460
+[18Mar2025 15:11:46.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement ['X' Marks the Spot]
+[18Mar2025 15:12:12.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Barrel Booty]
