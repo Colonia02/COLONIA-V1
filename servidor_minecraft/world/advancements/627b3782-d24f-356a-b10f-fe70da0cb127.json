@@ -431,6 +431,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-18 18:10:36 +0000",
       "minecraft:spider": "2025-03-16 21:14:59 +0000",
       "minecraft:creeper": "2025-03-16 22:32:39 +0000",
       "minecraft:zombie": "2025-03-16 19:43:03 +0000"
@@ -2361,9 +2362,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-03-18 18:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-18 18:15:43 +0000"
     },
     "done": true
   },
@@ -2523,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-18 18:15:43 +0000"
+    },
+    "done": true
+  },
   "mekanism:chemical_transport": {
     "criteria": {
       "basic_pressurized_tube": "2025-03-18 17:46:51 +0000"
@@ -2547,15 +2566,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-03-18 18:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-18 18:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 15:31:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-18 18:11:15 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/misc/string_from_gossypium": {
     "criteria": {
       "has_gossypium": "2025-03-18 15:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-18 18:15:43 +0000"
     },
     "done": true
   },
@@ -2710,6 +2753,18 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-18 18:16:50 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2025-03-18 18:23:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-18 16:14:50 +0000"
@@ -2719,6 +2774,18 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-03-18 15:12:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-18 18:11:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-03-18 18:15:43 +0000"
     },
     "done": true
   },
@@ -2910,6 +2977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-03-18 18:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-18 16:01:34 +0000"
@@ -2925,6 +2998,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-03-18 18:12:26 +0000"
     },
     "done": true
   },

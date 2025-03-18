@@ -6176,3 +6176,310 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Mar2025 18:03:23.579] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
 [18Mar2025 18:04:32.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Mar2025 18:04:32.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 18:09:32.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 18:09:32.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 18:10:14.180] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:10:14.182] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:10:14.182] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:10:14.182] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:10:14.182] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:10:14.183] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:10:14.183] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:10:14.183] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:10:14.183] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:10:14.183] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.486738 -> 6.128086 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:10:14.183] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:11:09.157] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Copper Spear
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Attack Reach: 4.0 -> 4.0 (+0.0) - mods: [+1]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.0 -> 12.0 (+0.0) - mods: [12]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 120.8 -> 120.8 (+0.0) - mods: [151, -20%]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6000001 -> -2.6000001 (+0.0) - mods: [0.1, -2.7]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.5 -> 4.5 (+0.0) - mods: [1.5, +3]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 1.3 -> 1.3 (+0.0) - mods: [1.3]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 15.0 -> 15.0 (+0.0) - mods: [15]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:11:09.158] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.25 -> 1.25 (+0.0) - mods: [125%]
+[18Mar2025 18:11:09.159] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 4.3933883 -> 4.12562 (-0.26776838) - mods: [5, x1.2]
+[18Mar2025 18:11:20.790] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:11:20.791] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:11:20.792] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:11:20.792] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.128086 -> 5.7694335 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:11:20.792] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:11:26.423] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:11:26.424] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:11:26.425] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:11:26.425] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.7694335 -> 5.410781 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:11:26.425] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:11:36.476] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:11:36.477] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:11:36.477] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:11:36.477] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.410781 -> 5.052129 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:11:36.478] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:12:33.641] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:12:33.643] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:12:33.643] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:12:33.643] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.052129 -> 4.693476 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:12:33.644] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:13:00.668] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:13:33.916] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Copper Spear
+[18Mar2025 18:13:33.917] [Server thread/DEBUG] [Silent Gear/]:  - Attack Reach: 4.0 -> 4.0 (+0.0) - mods: [+1]
+[18Mar2025 18:13:33.917] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.0 -> 12.0 (+0.0) - mods: [12]
+[18Mar2025 18:13:33.917] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 120.8 -> 120.8 (+0.0) - mods: [151, -20%]
+[18Mar2025 18:13:33.917] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6000001 -> -2.6000001 (+0.0) - mods: [0.1, -2.7]
+[18Mar2025 18:13:33.917] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.5 -> 4.5 (+0.0) - mods: [1.5, +3]
+[18Mar2025 18:13:33.918] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 1.3 -> 1.3 (+0.0) - mods: [1.3]
+[18Mar2025 18:13:33.918] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 15.0 -> 15.0 (+0.0) - mods: [15]
+[18Mar2025 18:13:33.918] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:13:33.918] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.25 -> 1.25 (+0.0) - mods: [125%]
+[18Mar2025 18:13:33.918] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 4.12562 -> 3.857851 (-0.26776886) - mods: [5, x1.2]
+[18Mar2025 18:14:08.016] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:14:08.017] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:14:08.017] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.745765 -> 6.486738 (-0.259027) - mods: [6, +15%, x1.2]
+[18Mar2025 18:14:08.018] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:14:32.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 18:14:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 18:15:30.711] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:15:30.713] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:15:30.714] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.486738 -> 6.128086 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:15:30.714] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:16:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Disme A Dozen]
+[18Mar2025 18:18:42.738] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:18:42.740] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:18:42.740] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:18:42.740] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:18:42.740] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:18:42.740] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:18:42.741] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:18:42.741] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:18:42.741] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:18:42.741] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.128086 -> 5.7694335 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:18:42.741] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:18:42.750] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:18:42.751] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:18:42.752] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.7694335 -> 5.410781 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:18:42.752] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:18:42.759] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:18:42.760] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:18:42.760] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.410781 -> 5.052129 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:18:42.761] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:18:43.941] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:18:43.943] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:18:43.943] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:18:43.943] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:18:43.943] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:18:43.943] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:18:43.943] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:18:43.944] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:18:43.944] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:18:43.944] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.052129 -> 4.693476 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:18:43.944] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:18:43.949] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:18:43.950] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 8.280001 -> 8.280001 (+0.0) - mods: [6, +15%, x1.2]
+[18Mar2025 18:19:32.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 18:19:32.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 18:20:06.991] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:31.390] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:31.391] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 8.280001 -> 7.921348 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:31.392] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:31.400] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:31.401] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:31.401] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 7.921348 -> 7.562696 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:31.402] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:32.161] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:32.163] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 7.562696 -> 7.2040434 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:32.164] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:32.174] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:32.175] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:32.176] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 7.2040434 -> 6.845391 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:32.176] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:40.219] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:40.220] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:40.220] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.845391 -> 6.486738 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:40.221] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:40.228] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:40.228] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.486738 -> 6.128086 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:40.229] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:40.235] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:40.236] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.128086 -> 5.7694335 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:40.237] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:20:50.464] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:20:50.464] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.7694335 -> 5.410781 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:20:50.465] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:21:41.224] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:21:41.225] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.410781 -> 5.052129 (-0.3586521) - mods: [6, +15%, x1.2]
+[18Mar2025 18:21:41.226] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:22:01.043] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:22:01.044] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:22:01.044] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:22:01.044] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:22:01.044] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:22:01.044] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:22:01.044] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:22:01.045] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:22:01.045] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:22:01.045] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 5.052129 -> 4.693476 (-0.3586526) - mods: [6, +15%, x1.2]
+[18Mar2025 18:22:01.045] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:22:10.876] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:22:10.877] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:22:10.877] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:22:10.877] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:22:10.878] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:22:10.878] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:22:10.878] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:22:10.878] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:22:10.878] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:22:10.878] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 8.280001 -> 8.280001 (+0.0) - mods: [6, +15%, x1.2]
+[18Mar2025 18:22:36.870] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:22:59.543] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:22:59.544] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:22:59.544] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 4.8927274 -> 4.693476 (-0.19925117) - mods: [6, +15%, x1.2]
+[18Mar2025 18:22:59.545] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:23:15.042] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:23:15.043] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 8.280001 -> 8.280001 (+0.0) - mods: [6, +15%, x1.2]
+[18Mar2025 18:24:32.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 18:24:32.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 18:24:52.282] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
