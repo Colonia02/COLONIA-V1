@@ -2343,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-18 17:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-18 15:57:46 +0000"
@@ -2376,6 +2382,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-18 17:48:28 +0000"
     },
     "done": true
   },
@@ -2505,6 +2517,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2025-03-18 17:46:51 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/pasta_with_veggieballs": {
     "criteria": {
       "has_any_ingredient": "2025-03-18 15:07:50 +0000"
@@ -2550,6 +2568,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-03-18 17:49:19 +0000"
     },
     "done": true
   },
@@ -2791,6 +2815,12 @@
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-03-18 17:53:32 +0000"
     },
     "done": true
   },
