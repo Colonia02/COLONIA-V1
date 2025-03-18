@@ -6160,3 +6160,19 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Mar2025 17:49:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Mar2025 17:54:32.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Mar2025 17:54:32.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 17:59:32.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 17:59:32.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 18:02:56.251] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:03:23.576] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Iron Pickaxe
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, x0.75]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[18Mar2025 18:03:23.578] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[18Mar2025 18:03:23.579] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 7.2014217 -> 6.486738 (-0.71468353) - mods: [6, +15%, x1.2]
+[18Mar2025 18:03:23.579] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Iron Pickaxe
+[18Mar2025 18:04:32.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 18:04:32.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
