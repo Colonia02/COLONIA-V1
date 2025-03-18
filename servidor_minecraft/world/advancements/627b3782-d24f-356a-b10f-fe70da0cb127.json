@@ -122,6 +122,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-03-16 19:51:34 +0000",
+      "minecraft:river": "2025-03-18 15:55:02 +0000",
       "minecraft:flower_forest": "2025-03-16 19:38:15 +0000",
       "minecraft:plains": "2025-03-16 19:51:45 +0000"
     },
@@ -2324,6 +2325,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 15:31:10 +0000"
@@ -2336,9 +2349,33 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-03-18 15:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-18 15:55:25 +0000"
     },
     "done": true
   },
@@ -2366,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-18 15:34:31 +0000"
@@ -2390,6 +2433,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_cave_carrot_smoking": {
     "criteria": {
       "has_cave_carrot": "2025-03-18 15:07:50 +0000"
@@ -2399,6 +2460,12 @@
   "miners_delight:recipes/cooking/pasta_with_veggieballs": {
     "criteria": {
       "has_any_ingredient": "2025-03-18 15:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
     },
     "done": true
   },
@@ -2438,9 +2505,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
     },
     "done": true
   },
@@ -2453,6 +2538,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
     },
     "done": true
   },
@@ -2469,6 +2560,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-03-18 15:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "rftoolscontrol:recipes/rftoolscontrol/card_base": {
     "criteria": {
       "redstone": "2025-03-18 15:34:31 +0000"
@@ -2478,6 +2587,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-03-18 15:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
     },
     "done": true
   },
@@ -2517,15 +2632,39 @@
     },
     "done": true
   },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-03-18 15:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 15:31:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-18 15:55:25 +0000"
     },
     "done": true
   },
@@ -2538,6 +2677,32 @@
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2025-03-18 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/large_empty_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_sand_bricks": "2025-03-18 15:55:25 +0000",
+      "has_item1_domum_ornamentum_sand_bricks": "2025-03-18 15:55:25 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-03-18 15:58:45 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_sand_stone_bricks": "2025-03-18 15:55:25 +0000",
+      "has_item2_domum_ornamentum_sand_stone_bricks": "2025-03-18 15:55:25 +0000"
     },
     "done": true
   },
