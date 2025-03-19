@@ -1,0 +1,192 @@
+---- Minecraft Crash Report ----
+// Oh - I know what I did wrong!
+
+Time: 2025-03-19 16:40:41
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:60) ~[forge-1.20.1-47.3.7-universal.jar%23250!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:37) ~[forge-1.20.1-47.3.7-universal.jar%23250!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mod: 
+	RFToolsPower (rftoolspower), Version: 1.18-4.0.9
+		Issue tracker URL: http://github.com/McJtyMods/RFToolsPower/issues
+		at TRANSFORMER/rftoolspower@1.18-4.0.9/mcjty.rftoolspower.setup.ModSetup.<init>(ModSetup.java:14)
+Stacktrace:
+	at mcjty.rftoolspower.setup.ModSetup.<init>(ModSetup.java:14) ~[%5BRFTools%20Power%5D%20rftoolspower-1.18-4.0.9.jar%23217!/:1.18-4.0.9] {re:classloading}
+-- MOD rftoolspower --
+Details:
+	Mod File: /workspaces/COLONIA-V1/servidor_minecraft/mods/[RFTools Power] rftoolspower-1.18-4.0.9.jar
+	Failure message: RFToolsPower (rftoolspower) has failed to load correctly
+		java.lang.NoSuchMethodError: 'void mcjty.rftoolspower.setup.ModSetup.createTab(java.lang.String, java.util.function.Supplier)'
+	Mod Version: 1.18-4.0.9
+	Mod Issue URL: http://github.com/McJtyMods/RFToolsPower/issues
+	Exception message: java.lang.NoSuchMethodError: 'void mcjty.rftoolspower.setup.ModSetup.createTab(java.lang.String, java.util.function.Supplier)'
+Stacktrace:
+	at mcjty.rftoolspower.setup.ModSetup.<init>(ModSetup.java:14) ~[%5BRFTools%20Power%5D%20rftoolspower-1.18-4.0.9.jar%23217!/:1.18-4.0.9] {re:classloading}
+	at mcjty.rftoolspower.RFToolsPower.<clinit>(RFToolsPower.java:24) ~[%5BRFTools%20Power%5D%20rftoolspower-1.18-4.0.9.jar%23217!/:1.18-4.0.9] {re:classloading}
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?] {}
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?] {}
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?] {}
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23247!/:?] {}
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23246!/:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 6.8.0-1021-azure
+	Java Version: 17.0.14, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1186378584 bytes (1131 MiB) / 2147483648 bytes (2048 MiB) up to 17179869184 bytes (16384 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7995.02
+	Virtual memory used (MB): 3917.29
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx16G
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		[YUNG's Better Dungeons (Forge)] YungsBetterDungeo|YUNG's Better Dungeons        |betterdungeons                |1.20-Forge-4.0.4    |COMMON_SET|Manifest: NOSIGNATURE
+		[Man of Many Planes] man_of_many_planes-0.2.0+1.20|Man of Many Planes            |man_of_many_planes            |0.2.0+1.20.1        |COMMON_SET|Manifest: NOSIGNATURE
+		kuma-api-forge-20.1.9-SNAPSHOT.jar                |KumaAPI                       |kuma_api                      |20.1.9-SNAPSHOT     |COMMON_SET|Manifest: NOSIGNATURE
+		[YUNG's Better Witch Huts (Forge)] YungsBetterWitc|YUNG's Better Witch Huts      |betterwitchhuts               |1.20-Forge-3.0.3    |COMMON_SET|Manifest: NOSIGNATURE
+		[GeckoLib] geckolib-forge-1.20.1-4.7.jar          |GeckoLib 4                    |geckolib                      |4.7                 |COMMON_SET|Manifest: NOSIGNATURE
+		[Sophisticated Storage] sophisticatedstorage-1.20.|Sophisticated Storage         |sophisticatedstorage          |1.3.8.1074          |COMMON_SET|Manifest: NOSIGNATURE
+		[playerAnimator] player-animation-lib-forge-1.0.2-|Player Animator               |playeranimator                |1.0.2-rc1+1.20      |COMMON_SET|Manifest: NOSIGNATURE
+		[TownTalk] towntalk-1.20.1-1.1.0.jar              |TownTalk                      |towntalk                      |1.1.0               |COMMON_SET|Manifest: NOSIGNATURE
+		[YUNG's Better Ocean Monuments (Forge)] YungsBette|YUNG's Better Ocean Monuments |betteroceanmonuments          |1.20-Forge-3.0.4    |COMMON_SET|Manifest: NOSIGNATURE
+		[Dynamic Lights [Server] [Forge-Fabric-Quilt]] dyn|Dynamic Lights                |dynamiclights                 |1.8.2+mod           |COMMON_SET|Manifest: NOSIGNATURE
+		[Caelus API (Forge-NeoForge)] caelus-forge-3.2.0+1|Caelus API                    |caelus                        |3.2.0+1.20.1        |COMMON_SET|Manifest: NOSIGNATURE
+		[Immersive Aircraft [Fabric-Forge]] immersive_airc|Immersive Aircraft            |immersive_aircraft            |1.2.1+1.20.1        |COMMON_SET|Manifest: NOSIGNATURE
+		[Sophisticated Core] sophisticatedcore-1.20.1-1.2.|Sophisticated Core            |sophisticatedcore             |1.2.22.901          |COMMON_SET|Manifest: NOSIGNATURE
+		[Waystones] waystones-forge-1.20.1-14.1.11.jar    |Waystones                     |waystones                     |14.1.11             |COMMON_SET|Manifest: NOSIGNATURE
+		[Comforts (Fabric-Forge-Quilt)] comforts-forge-6.4|Comforts                      |comforts                      |6.4.0+1.20.1        |COMMON_SET|Manifest: NOSIGNATURE
+		[Loot Integrations] lootintegrations-1.20.1-4.2.ja|Lootintegrations mod          |lootintegrations              |1.20.1-4.2          |COMMON_SET|Manifest: NOSIGNATURE
+		[Artifacts] artifacts-forge-9.5.13.jar            |Artifacts                     |artifacts                     |9.5.13              |COMMON_SET|Manifest: NOSIGNATURE
+		[Simple Storage Network] SimpleStorageNetwork-1.20|Simple Storage Network        |storagenetwork                |1.11.3              |COMMON_SET|Manifest: 1f:47:ac:b1:61:82:96:b8:47:19:16:d2:61:81:11:60:3a:06:4b:61:31:56:7d:44:31:1e:0c:6f:22:5b:4c:ed
+		[YUNG's API (Forge)] YungsApi-1.20-Forge-4.0.6.jar|YUNG's API                    |yungsapi                      |1.20-Forge-4.0.6    |COMMON_SET|Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.6.jar                       |MixinExtras                   |mixinextras                   |0.3.6               |COMMON_SET|Manifest: NOSIGNATURE
+		[ToadLib] ToadLib-1.20.1-1.1.4.jar                |ToadLib                       |toadlib                       |1.1.4               |COMMON_SET|Manifest: NOSIGNATURE
+		[Sophisticated Backpacks] sophisticatedbackpacks-1|Sophisticated Backpacks       |sophisticatedbackpacks        |3.23.6.1210         |COMMON_SET|Manifest: NOSIGNATURE
+		[Relics] relics-1.20.1-0.8.0.7.jar                |Relics                        |relics                        |0.8.0.7             |COMMON_SET|Manifest: NOSIGNATURE
+		[McJtyLib] mcjtylib-1.20-8.0.6.jar                |McJtyLib                      |mcjtylib                      |1.20-8.0.6          |COMMON_SET|Manifest: NOSIGNATURE
+		[RFTools Base] rftoolsbase-1.20-5.0.6.jar         |RFToolsBase                   |rftoolsbase                   |1.20-5.0.6          |COMMON_SET|Manifest: NOSIGNATURE
+		[YUNG's Better Desert Temples (Forge)] YungsBetter|YUNG's Better Desert Temples  |betterdeserttemples           |1.20-Forge-3.0.3    |COMMON_SET|Manifest: NOSIGNATURE
+		[Balm] balm-forge-1.20.1-7.3.18-all.jar           |Balm                          |balm                          |7.3.18              |COMMON_SET|Manifest: NOSIGNATURE
+		[Terralith] Terralith_1.20.x_v2.5.4.jar           |Terralith                     |terralith                     |2.5.4               |COMMON_SET|Manifest: NOSIGNATURE
+		[RFTools Power] rftoolspower-1.18-4.0.9.jar       |RFToolsPower                  |rftoolspower                  |1.18-4.0.9          |ERROR     |Manifest: NOSIGNATURE
+		[YUNG's Better Nether Fortresses (Forge)] YungsBet|YUNG's Better Nether Fortresse|betterfortresses              |1.20-Forge-2.0.6    |COMMON_SET|Manifest: NOSIGNATURE
+		[Cloth Config API (Fabric-Forge-NeoForge)] cloth-c|Cloth Config v10 API          |cloth_config                  |11.1.136            |COMMON_SET|Manifest: NOSIGNATURE
+		forge-1.20.1-47.3.7-universal.jar                 |Forge                         |forge                         |47.3.7              |COMMON_SET|Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		[Easy Piglins] easy-piglins-forge-1.20.1-1.0.13.ja|Easy Piglins                  |easy_piglins                  |1.20.1-1.0.13       |COMMON_SET|Manifest: NOSIGNATURE
+		[Corpse] corpse-forge-1.20.1-1.0.20.jar           |Corpse                        |corpse                        |1.20.1-1.0.20       |COMMON_SET|Manifest: NOSIGNATURE
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |COMMON_SET|Manifest: NOSIGNATURE
+		[Industrial Foregoing] industrial-foregoing-1.20.1|Industrial Foregoing          |industrialforegoing           |3.5.19              |COMMON_SET|Manifest: NOSIGNATURE
+		[Farmer's Delight] FarmersDelight-1.20.1-1.2.7.jar|Farmer's Delight              |farmersdelight                |1.20.1-1.2.7        |COMMON_SET|Manifest: NOSIGNATURE
+		[EMI] emi-1.1.20+1.20.1+forge.jar                 |EMI                           |emi                           |1.1.20+1.20.1+forge |COMMON_SET|Manifest: NOSIGNATURE
+		[Just Enough Items (JEI)] jei-1.20.1-forge-15.20.0|Just Enough Items             |jei                           |15.20.0.106         |COMMON_SET|Manifest: NOSIGNATURE
+		[RFTools Utility] rftoolsutility-1.20-6.0.6.jar   |RFToolsUtility                |rftoolsutility                |1.20-6.0.6          |COMMON_SET|Manifest: NOSIGNATURE
+		[Moonlight Lib] moonlight-1.20-2.13.72-forge.jar  |Moonlight Library             |moonlight                     |1.20-2.13.72        |COMMON_SET|Manifest: NOSIGNATURE
+		[Titanium] titanium-1.20.1-3.8.32.jar             |Titanium                      |titanium                      |3.8.32              |COMMON_SET|Manifest: NOSIGNATURE
+		[Silent Lib (silentlib)] silent-lib-1.20.1-8.0.0.j|Silent Lib                    |silentlib                     |8.0.0               |COMMON_SET|Manifest: NOSIGNATURE
+		[Chunky (Forge-NeoForge)] Chunky-1.3.146.jar      |Chunky                        |chunky                        |1.3.146             |COMMON_SET|Manifest: NOSIGNATURE
+		[Silent Gear] silent-gear-1.20.1-3.6.6.jar        |Silent Gear                   |silentgear                    |3.6.6               |COMMON_SET|Manifest: NOSIGNATURE
+		spectrelib-forge-0.13.15+1.20.1.jar               |SpectreLib                    |spectrelib                    |0.13.15+1.20.1      |COMMON_SET|Manifest: NOSIGNATURE
+		[Ksyxis] Ksyxis-1.3.3.jar                         |Ksyxis                        |ksyxis                        |1.3.3               |COMMON_SET|Manifest: NOSIGNATURE
+		[Domum Ornamentum] domum_ornamentum-1.20.1-1.0.284|Domum Ornamentum              |domum_ornamentum              |1.20.1-1.0.284-snaps|COMMON_SET|Manifest: NOSIGNATURE
+		[Easy Villagers] easy-villagers-forge-1.20.1-1.1.2|Easy Villagers                |easy_villagers                |1.20.1-1.1.23       |COMMON_SET|Manifest: NOSIGNATURE
+		[Curios API (Forge-NeoForge)] curios-forge-5.12.1+|Curios API                    |curios                        |5.12.1+1.20.1       |COMMON_SET|Manifest: NOSIGNATURE
+		[Mekanism] Mekanism-1.20.1-10.4.15.75.jar         |Mekanism                      |mekanism                      |10.4.15             |COMMON_SET|Manifest: NOSIGNATURE
+		[Mekanism Generators] MekanismGenerators-1.20.1-10|Mekanism: Generators          |mekanismgenerators            |10.4.15             |COMMON_SET|Manifest: NOSIGNATURE
+		[Patchouli] Patchouli-1.20.1-84.1-FORGE.jar       |Patchouli                     |patchouli                     |1.20.1-84.1-FORGE   |COMMON_SET|Manifest: NOSIGNATURE
+		[BlockUI] blockui-1.20.1-1.0.186-beta.jar         |UI Library Mod                |blockui                       |1.20.1-1.0.186-beta |COMMON_SET|Manifest: NOSIGNATURE
+		[RFTools Storage] rftoolsstorage-1.20-5.0.3.jar   |RFToolsStorage                |rftoolsstorage                |1.20-5.0.3          |COMMON_SET|Manifest: NOSIGNATURE
+		[Flux Networks] FluxNetworks-1.20.1-7.2.1.15.jar  |Flux Networks                 |fluxnetworks                  |7.2.1.15            |COMMON_SET|Manifest: NOSIGNATURE
+		[RFTools Control] rftoolscontrol-1.20-7.0.2.jar   |RFToolsControl                |rftoolscontrol                |1.20-7.0.2          |COMMON_SET|Manifest: NOSIGNATURE
+		[Miner's Delight +] miners_delight-1.20.1-1.2.3.ja|Miner's Delight               |miners_delight                |1.20.1-1.2.3        |COMMON_SET|Manifest: NOSIGNATURE
+		[FTB Ultimine (Forge)] ftb-ultimine-forge-2001.1.5|FTB Ultimine                  |ftbultimine                   |2001.1.5            |COMMON_SET|Manifest: NOSIGNATURE
+		[YUNG's Better Strongholds (Forge)] YungsBetterStr|YUNG's Better Strongholds     |betterstrongholds             |1.20-Forge-4.0.3    |COMMON_SET|Manifest: NOSIGNATURE
+		[Structurize] structurize-1.20.1-1.0.764-snapshot.|Structurize                   |structurize                   |1.20.1-1.0.764-snaps|COMMON_SET|Manifest: NOSIGNATURE
+		[Multi-Piston] multipiston-1.20-1.2.43-RELEASE.jar|Multi-Piston                  |multipiston                   |1.20-1.2.43-RELEASE |COMMON_SET|Manifest: NOSIGNATURE
+		[MineColonies] minecolonies-1.20.1-1.1.828-snapsho|MineColonies                  |minecolonies                  |1.20.1-1.1.828-snaps|COMMON_SET|Manifest: NOSIGNATURE
+		[Tweaks addon for MineColonies] MineColonies_Tweak|Tweaks addon for MineColonies |minecolonies_tweaks           |2.50                |COMMON_SET|Manifest: NOSIGNATURE
+		[Compatibility addon for MineColonies] MineColonie|Compatibility addon for MineCo|minecolonies_compatibility    |2.65                |COMMON_SET|Manifest: NOSIGNATURE
+		[Mekanism Tools] MekanismTools-1.20.1-10.4.15.75.j|Mekanism: Tools               |mekanismtools                 |10.4.15             |COMMON_SET|Manifest: NOSIGNATURE
+		[Architectury API] architectury-9.2.14-forge.jar  |Architectury                  |architectury                  |9.2.14              |COMMON_SET|Manifest: NOSIGNATURE
+		[FTB Library (Forge)] ftb-library-forge-2001.2.9.j|FTB Library                   |ftblibrary                    |2001.2.9            |COMMON_SET|Manifest: NOSIGNATURE
+		[OctoLib] OctoLib-FORGE-0.5.0.1+1.20.1.jar        |OctoLib                       |octolib                       |0.5.0.1             |COMMON_SET|Manifest: NOSIGNATURE
+		[Lootr (Forge & NeoForge)] lootr-forge-1.20-0.7.35|Lootr                         |lootr                         |0.7.35.90           |COMMON_SET|Manifest: NOSIGNATURE
+		[Cupboard] cupboard-1.20.1-2.7.jar                |Cupboard utilities            |cupboard                      |1.20.1-2.7          |COMMON_SET|Manifest: NOSIGNATURE
+		[FLIB] flib-1.20.1-0.0.14.jar                     |flib                          |flib                          |0.0.14              |COMMON_SET|Manifest: 1f:47:ac:b1:61:82:96:b8:47:19:16:d2:61:81:11:60:3a:06:4b:61:31:56:7d:44:31:1e:0c:6f:22:5b:4c:ed
+		[YUNG's Better End Island (Forge)] YungsBetterEndI|YUNG's Better End Island      |betterendisland               |1.20-Forge-2.0.6    |COMMON_SET|Manifest: NOSIGNATURE
+		[Relics- Artifacts Compat] rarcompat-1.20.1-0.1.7.|RAR-Compat                    |rarcompat                     |0.1.7               |COMMON_SET|Manifest: NOSIGNATURE
+		expandability-forge-9.0.4.jar                     |ExpandAbility                 |expandability                 |9.0.4               |COMMON_SET|Manifest: NOSIGNATURE
+		[YUNG's Better Mineshafts (Forge)] YungsBetterMine|YUNG's Better Mineshafts      |bettermineshafts              |1.20-Forge-4.0.4    |COMMON_SET|Manifest: NOSIGNATURE
+		[Skin Restorer] skinrestorer-2.2.1+1.20-forge.jar |SkinRestorer                  |skinrestorer                  |2.2.1+1.20-forge    |COMMON_SET|Manifest: NOSIGNATURE
+		[YUNG's Better Jungle Temples (Forge)] YungsBetter|YUNG's Better Jungle Temples  |betterjungletemples           |1.20-Forge-2.0.5    |COMMON_SET|Manifest: NOSIGNATURE
+	Crash Report UUID: 83b0c837-c05d-4b11-8fcb-61c936e709ab
+	FML: 47.3
+	Forge: net.minecraftforge:47.3.7
