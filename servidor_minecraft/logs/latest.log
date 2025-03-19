@@ -783,3 +783,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [19Mar2025 17:56:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [19Mar2025 18:02:43.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Iron Ore] to LuxSilver
 [19Mar2025 18:33:20.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Hydrogen Powered Flight]
+[19Mar2025 18:56:16.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Infusing Efficiency]
+[19Mar2025 18:57:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Pick and Place]

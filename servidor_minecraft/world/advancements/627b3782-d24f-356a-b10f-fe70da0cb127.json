@@ -3244,6 +3244,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-19 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2025-03-19 18:57:47 +0000"
+    },
+    "done": true
+  },
   "mekanism:hydrogen_powered_flight": {
     "criteria": {
       "jetpack": "2025-03-19 18:33:20 +0000"
@@ -3256,6 +3268,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-03-19 18:58:19 +0000"
+    },
+    "done": true
+  },
   "mekanismgenerators:wind_generator": {
     "criteria": {
       "wind_generator": "2025-03-19 18:16:43 +0000"
@@ -3265,6 +3283,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-03-19 18:45:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-03-19 18:56:16 +0000"
     },
     "done": true
   },
