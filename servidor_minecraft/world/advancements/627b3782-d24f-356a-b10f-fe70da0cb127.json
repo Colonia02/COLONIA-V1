@@ -672,6 +672,7 @@
       "cooked_porkchop": "2025-03-18 18:45:15 +0000",
       "cooked_mutton": "2025-03-16 20:26:09 +0000",
       "cooked_beef": "2025-03-16 22:32:06 +0000",
+      "porkchop": "2025-03-19 18:01:42 +0000",
       "apple": "2025-03-16 19:51:30 +0000"
     },
     "done": false
@@ -3234,6 +3235,18 @@
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-03-19 17:49:47 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-03-19 18:11:01 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-03-19 18:16:43 +0000"
     },
     "done": true
   },
