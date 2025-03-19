@@ -792,3 +792,24 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [19Mar2025 19:16:41.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Mar2025 19:16:41.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o<--[HERE]
 [19Mar2025 19:29:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Yeah I'm Freeeeee Fallin']
+[19Mar2025 19:34:04.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver was kicked for floating too long!
+[19Mar2025 19:34:04.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Flying is not enabled on this server
+[19Mar2025 19:34:04.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[19Mar2025 19:34:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 19:34:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[19Mar2025 19:35:12.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.14.84.239:52203] logged in with entity id 19671 at (16.3505039720819, 76.94320939755816, -94.83643974574271)
+[19Mar2025 19:35:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[19Mar2025 19:37:43.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Timed out
+[19Mar2025 19:37:43.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[19Mar2025 19:38:51.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Mar2025 19:38:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Mar2025 19:38:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Mar2025 19:38:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Mar2025 19:38:51.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Mar2025 19:38:51.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Mar2025 19:38:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Mar2025 19:38:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Mar2025 19:38:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Mar2025 19:38:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Mar2025 19:38:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Mar2025 19:38:51.547] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
