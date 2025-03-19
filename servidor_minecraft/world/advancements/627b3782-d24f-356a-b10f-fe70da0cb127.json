@@ -3231,5 +3231,11 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-03-19 17:49:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

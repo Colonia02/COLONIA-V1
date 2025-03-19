@@ -771,3 +771,13 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [19Mar2025 17:44:49.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:46151] logged in with entity id 35 at (12.477225136089094, 64.0, -95.37415658562598)
 [19Mar2025 17:44:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [19Mar2025 17:44:49.781] [Server thread/INFO] [structurize/]: New Server UUID 74b6d74c-4740-4721-ae02-42c22fd47d63
+[19Mar2025 17:54:05.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[19Mar2025 17:54:05.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[19Mar2025 17:54:05.273] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Mar2025 17:54:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 17:54:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o<--[HERE]
+[19Mar2025 17:55:17.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@d93354d[id=<null>,name=LuxSilver,properties={},legacy=false] (/127.69.220.99:48863): Took too long to log in
+[19Mar2025 17:55:17.321] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d93354d[id=<null>,name=LuxSilver,properties={},legacy=false] (/127.69.220.99:48863) lost connection: Took too long to log in
+[19Mar2025 17:55:17.370] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Mar2025 17:56:37.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:34051] logged in with entity id 2138 at (13.443768338175154, 64.0, -94.1475916449657)
+[19Mar2025 17:56:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
