@@ -3316,5 +3316,17 @@
     },
     "done": true
   },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-03-20 16:42:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-03-20 16:59:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
