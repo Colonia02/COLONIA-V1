@@ -3370,6 +3370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-03-20 20:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-03-20 18:51:54 +0000"
@@ -3571,6 +3577,12 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2025-03-20 17:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-03-20 20:14:52 +0000"
     },
     "done": true
   },
