@@ -678,6 +678,7 @@
       "porkchop": "2025-03-19 18:01:42 +0000",
       "apple": "2025-03-16 19:51:30 +0000",
       "spider_eye": "2025-03-20 18:51:47 +0000",
+      "pumpkin_pie": "2025-03-20 19:49:48 +0000",
       "rotten_flesh": "2025-03-20 18:14:03 +0000"
     },
     "done": false
@@ -3465,6 +3466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-20 19:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-03-20 17:31:26 +0000"
@@ -3537,6 +3544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-20 19:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
@@ -3600,6 +3613,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-03-20 19:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-20 19:51:30 +0000"
     },
     "done": true
   },

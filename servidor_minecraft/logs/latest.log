@@ -769,3 +769,10 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [20Mar2025 17:24:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Trapped Inside]
 [20Mar2025 19:15:17.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=76, z=-94} BlockPos{x=-122, y=76, z=-95}
 [20Mar2025 19:39:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Crops of the Wild]
+[20Mar2025 19:54:59.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by Zombie
+[20Mar2025 19:55:26.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LuxSilver a server operator
+[20Mar2025 19:55:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -80.500000, -44.500000, 10.500000]
+[20Mar2025 19:55:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by Mimic
+[20Mar2025 19:56:47.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Set own game mode to Creative Mode]
+[20Mar2025 19:56:51.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -79.500000, -44.500000, 9.500000]
+[20Mar2025 19:58:07.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -61.500000, 57.500000, -117.500000]
