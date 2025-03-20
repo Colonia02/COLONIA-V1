@@ -767,3 +767,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [20Mar2025 17:11:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [20Mar2025 17:11:02.705] [Server thread/INFO] [structurize/]: New Server UUID 9c568b2b-756f-4d4e-a9e2-624e4ab68ec8
 [20Mar2025 17:24:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Trapped Inside]
+[20Mar2025 19:15:17.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=76, z=-94} BlockPos{x=-122, y=76, z=-95}
