@@ -766,3 +766,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [20Mar2025 17:11:02.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:47801] logged in with entity id 37 at (12.778812245575555, 64.0, -95.5716666650776)
 [20Mar2025 17:11:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [20Mar2025 17:11:02.705] [Server thread/INFO] [structurize/]: New Server UUID 9c568b2b-756f-4d4e-a9e2-624e4ab68ec8
+[20Mar2025 17:24:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Trapped Inside]

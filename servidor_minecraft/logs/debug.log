@@ -6041,3 +6041,8 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [20Mar2025 17:14:23.805] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [20Mar2025 17:14:23.805] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [20Mar2025 17:14:23.807] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Mar2025 17:19:09.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 17:19:09.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 17:24:09.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 17:24:09.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 17:24:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Trapped Inside]
