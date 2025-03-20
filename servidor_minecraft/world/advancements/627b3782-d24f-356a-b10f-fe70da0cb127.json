@@ -435,6 +435,7 @@
       "minecraft:skeleton": "2025-03-18 18:10:36 +0000",
       "minecraft:spider": "2025-03-16 21:14:59 +0000",
       "minecraft:creeper": "2025-03-16 22:32:39 +0000",
+      "minecraft:cave_spider": "2025-03-20 18:16:21 +0000",
       "minecraft:enderman": "2025-03-20 18:13:16 +0000",
       "minecraft:zombie": "2025-03-16 19:43:03 +0000"
     },
@@ -3459,6 +3460,18 @@
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-20 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-20 18:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-20 18:16:09 +0000"
     },
     "done": true
   },

@@ -6068,3 +6068,20 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [20Mar2025 18:09:09.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Mar2025 18:14:09.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Mar2025 18:14:09.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 18:19:09.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:19:09.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 18:24:09.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:24:09.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 18:26:02.679] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Diamond Pickaxe
+[20Mar2025 18:26:02.682] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.0 -> 4.0 (+0.0) - mods: [3, +1]
+[20Mar2025 18:26:02.682] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[20Mar2025 18:26:02.682] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 8.842371 -> 8.558121 (-0.28425026) - mods: [8, +15%, x1.2]
+[20Mar2025 18:26:02.682] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 69.99999 -> 69.99999 (+0.0) - mods: [70]
+[20Mar2025 18:26:02.682] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[20Mar2025 18:26:02.682] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 10.0 -> 10.0 (+0.0) - mods: [10]
+[20Mar2025 18:26:02.683] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[20Mar2025 18:26:02.683] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.8 -> 0.8 (+0.0) - mods: [0.8]
+[20Mar2025 18:26:02.683] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 1170.75 -> 1170.75 (+0.0) - mods: [1561, x0.75]
+[20Mar2025 18:26:02.683] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Diamond Pickaxe
+[20Mar2025 18:29:09.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:29:09.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
