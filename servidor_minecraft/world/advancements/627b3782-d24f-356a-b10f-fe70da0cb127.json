@@ -676,6 +676,7 @@
       "cooked_beef": "2025-03-16 22:32:06 +0000",
       "porkchop": "2025-03-19 18:01:42 +0000",
       "apple": "2025-03-16 19:51:30 +0000",
+      "spider_eye": "2025-03-20 18:51:47 +0000",
       "rotten_flesh": "2025-03-20 18:14:03 +0000"
     },
     "done": false
@@ -3349,6 +3350,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-20 18:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-20 18:51:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-20 17:31:26 +0000"
@@ -3364,6 +3383,12 @@
   "sophisticatedstorage:recipes/misc/diamond_barrel": {
     "criteria": {
       "has_gold_barrel": "2025-03-20 17:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-20 18:51:22 +0000"
     },
     "done": true
   },
@@ -3421,6 +3446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_barrel": {
     "criteria": {
       "has_iron_barrel": "2025-03-20 17:31:39 +0000"
@@ -3433,9 +3464,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-20 18:51:54 +0000"
+    },
+    "done": true
+  },
   "mekanism:personal_storage": {
     "criteria": {
       "storage": "2025-03-20 17:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
     },
     "done": true
   },
@@ -3448,6 +3497,12 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2025-03-20 17:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
     },
     "done": true
   },
