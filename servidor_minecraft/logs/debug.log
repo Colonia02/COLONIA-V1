@@ -6064,3 +6064,7 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [20Mar2025 18:04:09.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Mar2025 18:05:59.215] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
 [20Mar2025 18:05:59.215] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[20Mar2025 18:09:09.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:09:09.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 18:14:09.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:14:09.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
