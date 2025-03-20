@@ -121,6 +121,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-03-20 19:38:38 +0000",
       "minecraft:beach": "2025-03-16 19:51:34 +0000",
       "minecraft:river": "2025-03-18 15:55:02 +0000",
       "minecraft:flower_forest": "2025-03-16 19:38:15 +0000",
@@ -3332,6 +3333,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 19:47:53 +0000"
+    },
+    "done": true
+  },
   "mekanism:digital_miner": {
     "criteria": {
       "digital_miner": "2025-03-20 17:24:45 +0000"
@@ -3341,6 +3348,12 @@
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-20 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 19:39:15 +0000"
     },
     "done": true
   },
@@ -3365,6 +3378,24 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-03-20 18:52:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 19:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-20 19:47:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-03-20 19:39:15 +0000"
     },
     "done": true
   },
@@ -3398,6 +3429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-20 19:39:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-20 17:31:26 +0000"
@@ -3407,6 +3444,12 @@
   "sophisticatedstorage:recipes/misc/storage_output": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-03-20 17:31:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-20 19:39:15 +0000"
     },
     "done": true
   },
@@ -3464,6 +3507,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 19:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-20 18:51:54 +0000"
@@ -3479,6 +3528,12 @@
   "industrialforegoing:recipes/misc/plastic": {
     "criteria": {
       "has_plastic": "2025-03-20 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 19:39:15 +0000"
     },
     "done": true
   },
@@ -3530,9 +3585,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-20 19:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-20 18:16:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-20 19:39:15 +0000"
     },
     "done": true
   },
