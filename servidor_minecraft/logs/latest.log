@@ -744,3 +744,10 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [21Mar2025 17:38:49.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
 [21Mar2025 17:41:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Mar2025 17:41:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J<--[HERE]
+[21Mar2025 17:57:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Mar2025 17:57:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J<--[HERE]
+[21Mar2025 17:58:11.871] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@616d991c[id=627b3782-d24f-356a-b10f-fe70da0cb127,name=LuxSilver,properties={},legacy=false] (/127.69.220.99:41971): Took too long to log in
+[21Mar2025 17:58:11.872] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@616d991c[id=627b3782-d24f-356a-b10f-fe70da0cb127,name=LuxSilver,properties={},legacy=false] (/127.69.220.99:41971) lost connection: Took too long to log in
+[21Mar2025 17:58:11.918] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Mar2025 17:59:53.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:54463] logged in with entity id 689 at (15.5, 64.0, -103.5)
+[21Mar2025 17:59:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
