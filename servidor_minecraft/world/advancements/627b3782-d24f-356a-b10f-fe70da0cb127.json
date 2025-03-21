@@ -5400,5 +5400,11 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_iron_to_gold_tier_upgrade": "2025-03-21 18:10:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
