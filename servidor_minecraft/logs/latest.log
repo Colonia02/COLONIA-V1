@@ -737,3 +737,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [21Mar2025 16:54:33.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/570, l='ServerLevel[world]', x=-224.00, y=54.00, z=-160.04]
 [21Mar2025 16:59:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Close Quarters]
 [21Mar2025 17:08:57.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Drives]
+[21Mar2025 17:20:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Refined Storage]

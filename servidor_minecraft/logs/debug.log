@@ -6401,3 +6401,19 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [21Mar2025 17:06:20.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Mar2025 17:06:20.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Mar2025 17:08:57.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Drives]
+[21Mar2025 17:11:20.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 17:11:20.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 17:12:50.396] [Server thread/DEBUG] [Silent Gear/]: Adding Silk Touch enchantment from Silky trait to Diamond Pickaxe
+[21Mar2025 17:12:56.476] [Server thread/DEBUG] [Silent Gear/]: Recalculating for LuxSilver's Diamond Pickaxe
+[21Mar2025 17:12:56.479] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 1577.0 -> 1577.0 (+0.0) - mods: [1561, +16]
+[21Mar2025 17:12:56.479] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 99.99999 -> 99.99999 (+0.0) - mods: [70, +30]
+[21Mar2025 17:12:56.480] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.0 -> 4.0 (+0.0) - mods: [3, +1]
+[21Mar2025 17:12:56.480] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 12.285972 -> 13.223019 (+0.937047) - mods: [8, +15%, x1.2, +6]
+[21Mar2025 17:12:56.480] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.8 -> 0.8 (+0.0) - mods: [0.8]
+[21Mar2025 17:12:56.480] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 10.0 -> 10.0 (+0.0) - mods: [10]
+[21Mar2025 17:12:56.481] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.15 -> 1.15 (+0.0) - mods: [100%, +5%, +10%]
+[21Mar2025 17:12:56.481] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 3.0 -> 3.0 (+0.0) - mods: [1, +2]
+[21Mar2025 17:12:56.481] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6499999 -> -2.6499999 (+0.0) - mods: [0, -2.8, +0.15]
+[21Mar2025 17:16:20.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 17:16:20.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 17:20:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Refined Storage]
